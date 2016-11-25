@@ -18,4 +18,10 @@ class Usuario:
 		parametros = {'message':message,'access_token':self.token}
 		resultado = requests.post(self.url, params=parametros).json()
 		print(resultado)
-		return resultado
+		return resultado}
+
+
+Eli suerte en Peru!!!!!
+:D
+
+Eliii
