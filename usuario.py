@@ -25,3 +25,6 @@ Eli suerte en Peru!!!!!
 :D
 
 Eliii
+
+Gracias Griss!!!
+Tienes que ponerte trucha para que me enseñes todo lo que falta
